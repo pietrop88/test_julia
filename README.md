@@ -9,4 +9,7 @@ Simple project to test julia lang with Travis CI and CodeCov.
 <a href="https://codecov.io/gh/pietrop88/test_julia">
     <img alt="Codecov" src="https://img.shields.io/codecov/c/gh/pietrop88/test_julia?style=for-the-badge">
 </a>
+<a href="https://github.com/pietrop88/test_julia/blob/master/LICENSE">
+    <img alt="GitHub" src="https://img.shields.io/github/license/pietrop88/test_julia?style=for-the-badge">
+</a>
 </p>
