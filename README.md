@@ -14,7 +14,7 @@ Simple project to test julia lang with Travis CI and CodeCov.
 </a>
 </p>
 
-# Build and Test
+## Build and Test
 
 1. Clone this repo
 2. Move julia inside the cloned dir and enter *pkg mode*
