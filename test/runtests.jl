@@ -1,6 +1,13 @@
 using MyTestPkg
 using Test
 
-@testset "MyTestPkg.jl" begin
-    # Write your own tests here.
+my_tests = [
+    "test_sum"
+]
+
+@testset "All tests" begin
+    for test in my_tests
+        println(test)
+        include("$(test).jl")
+    end
 end

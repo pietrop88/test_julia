@@ -1,5 +1,7 @@
 module MyTestPkg
 
-greet() = print("Hello World!")
+export  sum
+
+include("sum.jl")
 
 end # module
