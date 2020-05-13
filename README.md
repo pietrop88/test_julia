@@ -1,4 +1,12 @@
-# MyTestPkg
+# Julia + Travis + Codecov  
 
-[![Build Status](https://travis-ci.com/pietrop88/MyTestPkg.jl.svg?branch=master)](https://travis-ci.com/pietrop88/MyTestPkg.jl)
-[![Codecov](https://codecov.io/gh/pietrop88/MyTestPkg.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/pietrop88/MyTestPkg.jl)
+Simple project to test julia lang with Travis CI and CodeCov.
+
+<p align="center">
+<a href="https://travis-ci.com/github/pietrop88/test_julia">
+    <img alt="Travis (.com)" src="https://img.shields.io/travis/com/pietrop88/test_julia?style=for-the-badge">
+</a>
+<a href="https://codecov.io/gh/pietrop88/test_julia">
+    <img alt="Codecov" src="https://img.shields.io/codecov/c/gh/pietrop88/test_julia?style=for-the-badge">
+</a>
+</p>
