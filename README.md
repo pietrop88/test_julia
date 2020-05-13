@@ -13,3 +13,12 @@ Simple project to test julia lang with Travis CI and CodeCov.
     <img alt="GitHub" src="https://img.shields.io/github/license/pietrop88/test_julia?style=for-the-badge">
 </a>
 </p>
+
+# Build and Test
+
+1. Clone this repo
+2. Move julia inside the cloned dir and enter *pkg mode*
+3. `add .`
+4. `status MyTestPkg`
+5. `build MyTestPkg`
+6. `test MyTestPkg`
