@@ -1,7 +1,7 @@
 module MyTestPkg
 
-export  sum
-
 include("sum.jl")
+
+export my_sum
 
 end # module

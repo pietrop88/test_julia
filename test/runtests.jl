@@ -1,5 +1,5 @@
-using MyTestPkg
 using Test
+using MyTestPkg
 
 my_tests = [
     "test_sum"
